@@ -2,7 +2,7 @@
 
 FoodTime - **MERN** stack food ordering application.
 
-Website: [https://foodtime-app.herokuapp.com](https://foodtime-app.herokuapp.com)
+Website: https://food-time-mern-app.herokuapp.com/
 
 ### Overview:
 
